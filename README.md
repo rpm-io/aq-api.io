@@ -1,2 +1,2 @@
-# atomic-db
+# aqa.io
 Easy way to make atomic query between distributed databases 
