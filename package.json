@@ -1,5 +1,5 @@
 {
-  "name": "aq-api.io",
+  "name": "rpmdb.io",
   "version": "0.0.1",
   "description": "distibuited transactional db",
   "main": "index.js",
