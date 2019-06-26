@@ -1,6 +1,6 @@
 {
   "name": "rpmdb.io",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "distibuited transactional db",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,8 @@
   "author": "luismiguel.mopa@gmail.com",
   "license": "ISC",
   "dependencies": {
-    "rpm.io": "^1.2.2",
+    "rpm.io": "^1.2.5",
+    "rpm.io-client": "^1.2.3",
     "uuid": "^3.3.2"
   }
 }
