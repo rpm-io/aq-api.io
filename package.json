@@ -1,6 +1,6 @@
 {
   "name": "rpmdb.io",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "distibuited transactional db",
   "main": "index.js",
   "scripts": {
